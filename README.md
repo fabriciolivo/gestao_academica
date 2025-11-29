@@ -18,7 +18,7 @@ O modelo lógico contempla as seguintes tabelas principais:
 * `PROVA` e `REGISTRO_NOTA`
 
 ## 🚀 Como Executar
-1.  Abra o arquivo `1_cirar_tabelas.sql` no seu SGBD para criar a estrutura.
+1.  Abra o arquivo `1_cirar_bd_tabelas.sql` no seu SGBD para criar a estrutura.
 2.  Execute o arquivo `2_inserir_dados.sql` para popular as tabelas com dados fictícios.
 3.  Utilize o arquivo `3_consultas.sql` para testar consultas.
 4.  Utilize o arquivo `4_operacoes.sql` para testar modificações.
